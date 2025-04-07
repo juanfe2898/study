@@ -16,8 +16,7 @@ The Linux boot process is the procedure for initializing the system. It consists
 ## Choosing a Linux Distribution
 ![image](https://github.com/user-attachments/assets/d6c3e10a-b256-431f-af69-051a932c8a59)
 
-
-##Some Basic Utilities
+## Some Basic Utilities
 There are some basic command line utilities that are used constantly, and it would be impossible to proceed further without using some of them in simple form before we discuss them in more detail. A short list has to include:  
 **cat:** used to type out a file (or combine files).  
 **head:** used to show the first few lines of a file.  
