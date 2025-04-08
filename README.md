@@ -22,3 +22,15 @@ There are some basic command line utilities that are used constantly, and it wou
 **head:** used to show the first few lines of a file.  
 **tail:** used to show the last few lines of a file.  
 **man:** used to view documentation.  
+
+## Navigating Through Directory History
+For remembering more than just the last directory visited, use pushd to change the directory instead of cd; this pushes your starting directory onto a list. Using popd will then send you back to those directories, walking in reverse order (the most recent directory will be the first one retrieved with popd). The list of directories is displayed with the dirs command.
+
+## Viewing Files
+cat -n show the lines
+mkdir is used to create a directory:
+mkdir sampdir 
+Removing a directory is done with rmdir
+rm -rf.
+![image](https://github.com/user-attachments/assets/77bf71ae-af17-42b0-a6c0-65c15451981e)
+
